@@ -1,4 +1,4 @@
-----
+---
 name: code-style-check
 
 on: [pull_request]
